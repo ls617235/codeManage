@@ -1,0 +1,36 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "emp.forte.name",
+      "type": "java.lang.String",
+      "sourceType": "com.ls.springboot.beam.Forte"
+    },
+    {
+      "name": "emp.forte.name",
+      "type": "java.lang.String",
+      "sourceType": "com.ls.springboot.beam.Forte"
+    },
+    {
+      "name": "emp.forte.name",
+      "type": "java.lang.String",
+      "sourceType": "com.ls.springboot.beam.Forte"
+    },
+    {
+      "name": "emp.forte.time",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ls.springboot.beam.Forte"
+    },
+    {
+      "name": "emp.forte.time",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ls.springboot.beam.Forte"
+    },
+    {
+      "name": "emp.forte.time",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ls.springboot.beam.Forte"
+    }
+  ],
+  "hints": []
+}
