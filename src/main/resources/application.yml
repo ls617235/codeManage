@@ -1,0 +1,20 @@
+server:
+  port: 8081
+
+#emp 配置数据
+#emp:
+#  lastName: zhangsan
+#  age: 23
+#  salary: 2000
+#  boss: true
+#  birthday: 1888/12/11
+#  map:
+#    key1: value1
+#    key2: value2
+#  list:
+#    - one
+#    - two
+#    - three
+#  forte:
+#    name: java
+#    time: 8
